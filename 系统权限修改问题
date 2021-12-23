@@ -1,0 +1,4 @@
+为了修改powershell配置文件defaults.json
+修改了c盘的权限，最后导致索引，系统软件访问不了
+要恢复至TrustedInstaller权限
+恢复方法就是  权限设置为 NT Service\TrustedInstaller
