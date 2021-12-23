@@ -2,7 +2,7 @@
 https://blog.csdn.net/weixin_34238633/article/details/88762667
 https://www.pstips.net/powershell-alias.html
 
-1.Scoop介绍
+1.Scoop介绍  
   window包管理器包管理器
 Scoop常用命令总结
   查看已安装的包-scoop list
