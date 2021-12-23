@@ -28,4 +28,3 @@ Scoop常用命令总结
   Get-Module 查看已安装的模块
   Install-Module 安装模块与Get-Module是一对
   
-  
